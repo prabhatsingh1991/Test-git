@@ -8,7 +8,7 @@ public class Test {
 		int i;
 		 System.out.println("hell");
 		// TODO Auto-generated method stub
-
+   System.out.println();
 	}
 
 }
